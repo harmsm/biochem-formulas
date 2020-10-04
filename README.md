@@ -1,7 +1,9 @@
-# biochem-formulas
-Summary of formulas and constants used in biochemistry
+## Summary of formulas and constants used in biochemistry
+
+[link to pdf version](https://github.com/harmsm/biochem-formulas/raw/main/formula.pdf)
 
 ### Constants
+
 <img src="https://render.githubusercontent.com/render/math?math=R=0.008314\ kJ\cdot mol^{-1}\cdot K^{-1}">
 <img src="https://render.githubusercontent.com/render/math?math=T\ in\ K=T\ in\ ^{\circ}C+273.15">
 
@@ -14,11 +16,8 @@ Summary of formulas and constants used in biochemistry
 ### pH:
 
 <img src="https://render.githubusercontent.com/render/math?math=M\cdot H\stackrel{K_{a}}{\rightleftarrows}M+H^{+}">
-
 <img src="https://render.githubusercontent.com/render/math?math=K_{a}=\frac{[M][H^{+}]}{[M\cdot H]}">
-
 <img src="https://render.githubusercontent.com/render/math?math=pH=-log_{10}\left([H^{+}]\right);\ pK_{a}=-log_{10}\left(K_{a}\right)">
-
 <img src="https://render.githubusercontent.com/render/math?math=\theta=\frac{[M\cdot H]}{[M]+[M\cdot H]}=\frac{1}{1+K_{a}/[H^{+}]}=\frac{1}{1+10^{\left(pH-pK_{a}\right)}}">
 
 
