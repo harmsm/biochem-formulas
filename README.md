@@ -21,3 +21,4 @@ $$pH=-log_{10}\left([H^{+}]\right);\ pK_{a}=-log_{10}\left(K_{a}\right)$$
 
 $$\theta=\frac{[M\cdot H]}{[M]+[M\cdot H]}=\frac{1}{1+K_{a}/[H^{+}]}=\frac{1}{1+10^{\left(pH-pK_{a}\right)}}$$
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
