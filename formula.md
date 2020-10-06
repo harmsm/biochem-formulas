@@ -1,7 +1,5 @@
 ## Summary of formulas and constants used in biochemistry
 
-[link to prettier pdf version](https://github.com/harmsm/biochem-formulas/raw/main/formula.pdf)
-
 ### Constants
 
 $$R=0.008314\ kJ\cdot mol^{-1}\cdot K^{-1}$$
@@ -23,16 +21,17 @@ The standard state condition is defined as all products and reactants at 1 M, 25
 
 For the reaction:
 
-$$A + B \rightleftarrows A \cdot B$$
-$$K_{eq} = K_{association} = K_{a} = \frac{[A \cdot B]}{[A][B]}$$
+$$M + X \rightleftarrows M \cdot X$$
+$$K_{eq} = K_{association} = K_{a} = \frac{[M \cdot X]}{[M][X]}$$
 
 You can write this reaction as a dissociation reaction as well (generally preferred by biochemists)
 
-$$A \cdot B \rightleftarrows A + B$$
-$$K_{eq} = K_{dissociation} = K_{D} = \frac{[A][B]}{[A \cdot B]}$$
+$$M \cdot X \rightleftarrows M + X$$
+$$K_{eq} = K_{dissociation} = K_{D} = \frac{[M][X]}{[M \cdot X]}$$
 
 Written this way, $K_{D}$ has units of concentration and thus measures the concentration at which the reaction will be 50% bound and 50% unbound.
 
+$$\theta = \frac{[MX]}{[M] + [MX]} = \frac{1}{1 + K_{D}/[X]}$$
 
 ### pH:
 
