@@ -46,7 +46,7 @@ For the cooperative binding reaction:
 
 $$MX_{n} \rightleftarrows [M] + n[X]$$
 
-$$\theta_{n} = \frac{[MX_{n}]}{[M] + \Sigma_{i=1}^{i=n} [MX_{i}]}$$
+$$\theta_{n} = \frac{[MX_{n}]}{[M] + \Sum_{i=1}^{i=n} [MX_{i}]}$$
 $$\theta = \frac{1}{1 + \big ( \frac{K_{D}}{[X]} \big )^{n}}$$
 
 
