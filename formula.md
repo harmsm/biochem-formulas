@@ -12,8 +12,8 @@ $$\Delta G = \Delta H - T \Delta S$$
 ### Free energy and concentration:
 
 $$aA+bB\rightleftarrows cC+dD$$
-$$\Delta G^{\circ\prime}=-RTln\left(K_{eq}\right)=-RTln\left(\frac{[C]_{eq}^{c}[D]_{eq}^{d}}{[A]_{eq}^{a}[B]_{eq}^{b}}\right)$$
 $$\Delta G=\Delta G^{\circ\prime}+RTln\left(\frac{[C]^{c}[D]^{d}}{[A]^{a}[B]^{b}}\right)$$
+$$\Delta G^{\circ\prime}=-RTln\left(K_{eq}\right)=-RTln\left(\frac{[C]_{eq}^{c}[D]_{eq}^{d}}{[A]_{eq}^{a}[B]_{eq}^{b}}\right)$$
 
 The standard state condition is defined as all products and reactants at 1 M, 25C, 1 atm pressure, pH 7.0.  
 
@@ -34,6 +34,8 @@ Written this way, $K_{D}$ has units of concentration and thus measures the conce
 $$\theta = \frac{[MX]}{[M] + [MX]} = \frac{1}{1 + K_{D}/[X]}$$
 
 ### pH:
+
+Note: $K_{a}$ is an *acid* constant, and thus a $K_{D}$ (dissociation constant).
 
 $$M\cdot H\stackrel{K_{a}}{\rightleftarrows}M+H^{+}$$
 $$K_{a}=\frac{[M][H^{+}]}{[M\cdot H]}$$
