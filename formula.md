@@ -12,8 +12,8 @@ $$\Delta G = \Delta H - T \Delta S$$
 ### Free energy and concentration:
 
 $$aA+bB\rightleftarrows cC+dD$$
-$$\Delta G^{\circ\prime}=-RTln\left(K_{eq}\right)=-RTln\left(\frac{[A]_{eq}^{a}[B]_{eq}^{b}}{[C]_{eq}^{c}[D]_{eq}^{d}}\right)$$
-$$\Delta G=\Delta G^{\circ\prime}+RTln\left(\frac{[A]^{a}[B]^{b}}{[C]^{c}[D]^{d}}\right)$$
+$$\Delta G^{\circ\prime}=-RTln\left(K_{eq}\right)=-RTln\left(\frac{[C]_{eq}^{c}[D]_{eq}^{d}}{[A]_{eq}^{a}[B]_{eq}^{b}}\right)$$
+$$\Delta G=\Delta G^{\circ\prime}+RTln\left(\frac{[C]^{c}[D]^{d}}{[A]^{a}[B]^{b}}\right)$$
 
 The standard state condition is defined as all products and reactants at 1 M, 25C, 1 atm pressure, pH 7.0.  
 
