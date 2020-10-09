@@ -40,3 +40,14 @@ $$K_{a}=\frac{[M][H^{+}]}{[M\cdot H]}$$
 $$pH=-log_{10}\left([H^{+}]\right);\ pK_{a}=-log_{10}\left(K_{a}\right)$$
 $$\theta=\frac{[M\cdot H]}{[M]+[M\cdot H]}=\frac{1}{1+K_{a}/[H^{+}]}=\frac{1}{1+10^{\left(pH-pK_{a}\right)}}$$
 
+### Cooperative binding
+
+For the cooperative binding reaction:
+
+$$MX_{n} \rightleftarrows [M] + n[X]$$
+
+$$\theta_{n} = \frac{[MX_{n}]}{[M] + \Sigma_{i=1}^{i=n} [MX_{i}]}$$
+$$\theta = \frac{1}{1 + \big ( \frac{K_{D}}{[X]} \big )^{n}}$$
+
+
+where $n$ is the number of cooperating sites.
