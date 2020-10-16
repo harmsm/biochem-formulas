@@ -53,3 +53,22 @@ $$\theta = \frac{1}{1 + \big ( \frac{K_{D}}{[X]} \big )^{n}}$$
 
 
 where $n$ is the number of cooperating sites.
+
+### Enzyme activity
+
+For a reaction
+
+$$aA + bB \rightleftarrows C$$
+
+The rate of the forward reaction is given by:
+
+$$d[C]/dt = k \times [A]^{a} \times [B]^{b}$$
+
+
+### Michaelis-Menten kinetics
+
+$$E+S\stackrel[k_{-1}]{k_{1}}{\rightleftarrows}ES\overset{k_{cat}}{\rightarrow}P$$
+$$V_{0} = \Big ( \frac{1}{1 + \frac{K_{M}}{[S]_{0}}} \Big ) k_{cat} [E]_{tot}$$
+$$V_{max} = k_{cat} [E]_{tot}$$
+$$K_{M} = \frac{k_{-1}+k_{cat}}{k_{1}}$$
+
